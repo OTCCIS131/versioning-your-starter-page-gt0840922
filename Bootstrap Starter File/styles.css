@@ -1,0 +1,220 @@
+body{
+    background-image: url(lawn1.jpg);
+    background-repeat: no repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+/*Links*/
+
+ul{background-color: rgba(0,77,0,1.0);
+	display: block;
+	padding: 1.5em;
+	margin: auto;
+	width: 30%;
+	text-align:center;
+	border-width: 2px;
+	border: 3px solid;
+	
+}
+
+a{
+	padding: 20px;
+	font-size: 2em;
+}
+
+a:link{
+	color: blue;
+}
+
+a:visited{
+	color: red;
+}
+
+a:hover{
+	color: purple;
+}
+
+/*Title*/
+
+header{
+	margin: auto;
+	color: black;
+	background-color: rgba(255,255,255,0.25);
+	text-align: center;
+	width: 30%;
+	font-size: 3em;
+}
+
+p{font-family: 'Indie Flower', cursive;}
+
+ol{font-family: 'Indie Flower', cursive;}
+
+h1{font-family: 'Indie Flower', cursive;}
+
+/*Columns*/
+
+section{
+	border-radius:6px;
+	color: white;
+	border: 2px black dashed;
+	padding: 5px;
+	margin: auto;
+}
+
+img{
+	width: 100%;
+	margin: auto;
+	display: block;
+	border-radius:6px;
+	color: white;
+}
+
+/*Fieldsets*/
+fieldset{
+	background-color: rgba(255,255,255,0.5);
+	color: green;
+	width: 20%;
+	margin: auto;
+}
+
+legend{
+	color: red;
+}
+
+/*Index Classes*/
+
+.column1{
+	background-color: rgba(0,120,0,0.5);
+	margin: auto;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+.des1{
+	background-color:rgba(0,120,0,0.25);
+	margin: auto;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+.column2{
+	background-color: rgba(120,0,0,0.5);
+	margin: auto;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+.des2{
+	background-color: rgba(120,0,0,0.25);
+	margin: auto;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+.column3{
+	background-color: rgba(0,0,120,0.5);
+	margin: auto;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+.des3{
+	background-color: rgba(0,0,120,0.25);
+	margin: auto;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+.column4{
+	background-color: rgba(255,200,0,0.5);
+	margin: auto;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+.des4{
+	background-color: rgba(255,200,0,0.25);
+	margin: auto;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+.picture{
+	margin: auto;
+	width: 25%;
+}
+
+
+
+/*Blog Classes*/
+
+.comment1{
+	margin: auto;
+	background-color: rgba(0,153,153,0.5);
+	margin-bottom: 10px;
+	margin-right: 10px;
+}
+
+.comment2{
+	margin: auto;
+	background-color: rgba(0,153,153,0.5);
+	margin-bottom: 10px;
+	margin-right: 10px;
+}
+
+.comment3{
+	margin: auto;
+	background-color: rgba(0,153,153,0.5);
+	margin-bottom: 10px;
+	margin-right: 10px;
+}
+
+.comment4{
+	margin: auto;
+	background-color: rgba(0,153,153,0.5);
+	margin-bottom: 10px;
+	margin-right: 10px;
+}
+
+/*Location Classes*/
+
+.section{
+	width:32%;
+	border-radius:6px;
+	color:white;
+	margin:auto;
+	margin-top:10px;
+	margin-bottom:10px;
+}
+.map{
+	width:78%;
+	border-radius:6px;
+	color:white;
+	margin:auto;
+	margin-top:10px;
+	margin-bottom:10px;
+}
+
+/*Gallery Classes*/
+
+.pictobox1{
+	margin:auto;
+	margin-bottom: 10px;
+	margin-right: 10px;
+}
+
+.pictobox2{
+	margin:auto;
+	margin-bottom: 10px;
+	margin-right: 10px;
+}
+
+.pictobox3{
+	margin:auto;
+	margin-bottom: 10px;
+	margin-right: 10px;
+}
+
+.pictobox4{
+	margin:auto;
+	margin-bottom: 10px;
+	margin-right: 10px;
+	
+}
